@@ -1,0 +1,4 @@
+.DS_Store
+discriminator_model_10_episods.pt
+processed_celeba_small/
+train_samples.pkl
